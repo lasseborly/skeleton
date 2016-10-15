@@ -1,0 +1,7 @@
+theme = "skeleton"
+baseurl = "https://hugosite.com"
+languageCode = "en-us"
+title = "Skeleton"
+
+[params]
+	subtitle = "Only the bone minimum"

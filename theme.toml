@@ -1,0 +1,12 @@
+name = "Skeleton"
+license = "MIT"
+licenselink = "https://github.com/lasseborly/skeleton/blob/master/LICENSE.md"
+description = "Only the bone minimum"
+homepage = "https://github.com/lasseborly/skeleton/"
+tags = ["clean", "simple"]
+features = ["Blog only"]
+min_version = 0.16
+
+[author]
+  name = "Lasse Borly <contact@lasseborly.dk"
+  homepage = "https://lasseborly.dk"
